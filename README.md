@@ -1,2 +1,2 @@
 # base
-ES6 Front-End Development Framework
+ES6 powered UI
