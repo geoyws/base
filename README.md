@@ -1,2 +1,2 @@
 # base
-ES6 Application Development Framework
+ES6 Front-End Development Framework
