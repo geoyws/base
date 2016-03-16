@@ -1,4 +1,4 @@
-# base
+# Base
 ES6 powered UI
 
-Base reminds me to be honest with myself.
+For me to get used to ES6
